@@ -2,5 +2,6 @@ Test setup for initializing git through Stata project. The basic steps for doing
 
 - Stata > New project
 - Create README.md file
-- ! git init
-- ! git commit -m "Initial commit :hatching_chick:"
+- Type " ! git init" into Stata command line.
+- Type " ! git commit -m "Initial commit :hatching_chick:" " into Stata command line
+- Add remote using GitKraken or use ! git remote add origin https://github.com/user/project-name.git
